@@ -9,32 +9,28 @@
 
 ## 🛠️ Technologies:
 
-### ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue) **Kotlin**
-### ![Java](https://img.shields.io/badge/Java-21-orange) **Java**
-### ![Python](https://img.shields.io/badge/Python-3.11-blue) **Python**
-### ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) **TypeScript**
-### ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow) **JavaScript**
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue) **Kotlin**
+![Java](https://img.shields.io/badge/Java-21-orange) **Java**
+![Python](https://img.shields.io/badge/Python-3.11-blue) **Python**
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) **TypeScript**
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow) **JavaScript**
 
-### ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.0-green) **Spring Boot**
-### ![React](https://img.shields.io/badge/React-18-blue) **React**
-### ![React Native](https://img.shields.io/badge/React%20Native-0.72-blue) **React Native**
-### ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2022.0.0-green) **Spring Cloud**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.0-green) **Spring Boot**
+![React](https://img.shields.io/badge/React-18-blue) **React**
+![React Native](https://img.shields.io/badge/React%20Native-0.72-blue) **React Native**
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2022.0.0-green) **Spring Cloud**
 
-### ![Docker](https://img.shields.io/badge/Docker-24.0-blue) **Docker**
-### ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.25-blue) **Kubernetes**
-### ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue) **CI/CD**
-### ![Maven](https://img.shields.io/badge/Maven-3.9.0-blue) **Maven**
-### ![Gradle](https://img.shields.io/badge/Gradle-8.0-blue) **Gradle**
-### ![Git](https://img.shields.io/badge/Git-2.40-blue) **Git**
+![Docker](https://img.shields.io/badge/Docker-24.0-blue) **Docker**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.25-blue) **Kubernetes**
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue) **CI/CD**
+![Maven](https://img.shields.io/badge/Maven-3.9.0-blue) **Maven**
+![Gradle](https://img.shields.io/badge/Gradle-8.0-blue) **Gradle**
+![Git](https://img.shields.io/badge/Git-2.40-blue) **Git**
 
-### ![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue) **MySQL**
-### ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue) **PostgreSQL**
-### ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green) **MongoDB**
-### ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-3.0.0-red) **Apache Kafka**
-
-### ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-5.0-blue) **AWS Solutions Architect**
-### ![Google Cloud](https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-2023-blue) **GCP Associate Cloud Engineer**
-### ![Azure](https://img.shields.io/badge/Azure-Administrator-0078D4) **Azure Administrator**
+![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue) **MySQL**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue) **PostgreSQL**
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green) **MongoDB**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-3.0.0-red) **Apache Kafka**
 
 ## 🏆 Certifications:
 
