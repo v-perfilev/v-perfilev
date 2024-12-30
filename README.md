@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.1rem&duration=2500&pause=500&color=0ACD0B&width=600&lines=Hi%2C+I'm+Vladimir!;Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
 **Software Engineer**  
 This profile showcases my personal projects.
 
