@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.1rem&duration=2500&pause=500&color=0CF70D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vladimir!;Thanks+for+visiting+my+profile+%3A-))](https://git.io/typing-svg)
+
+<!-- 
+
 ## Hi there 👋
 
-<!--
 **v-perfilev/v-perfilev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
