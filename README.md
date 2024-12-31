@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.1rem&duration=2500&pause=500&color=0ACD0B&width=600&lines=Hi%2C+I'm+Vladimir!;Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.1rem&duration=2500&pause=500&color=0ACD0B&width=600&lines=Hi%2C+I'm+Vladimir!)](https://git.io/typing-svg)
 
 **Software Engineer**  
-This profile showcases my personal projects.
+This profile is primarily for my personal projects.
 
 💼 At work, I focus on **enterprise applications**.  
 🕒 In my free time, I love exploring new technologies that I don't have time to dive into during my main job, such as **machine learning**, **mobile development**, and more.
@@ -13,28 +13,28 @@ This profile showcases my personal projects.
 
 ## 🛠️ Technologies:
 
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue)
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=kotlin)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0.0-green)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2022.0.0-green)
-![React](https://img.shields.io/badge/React-18-blue)
-![React Native](https://img.shields.io/badge/React%20Native-0.72-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?logo=springboot)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-green?logo=spring)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 
-![Docker](https://img.shields.io/badge/Docker-24.0-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.25-blue)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue)
-![Maven](https://img.shields.io/badge/Maven-3.9.0-blue)
-![Gradle](https://img.shields.io/badge/Gradle-8.0-blue)
-![Git](https://img.shields.io/badge/Git-2.40-blue)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?logo=githubactions)
+![Maven](https://img.shields.io/badge/Maven-blue?logo=apachemaven)
+![Gradle](https://img.shields.io/badge/Gradle-blue?logo=gradle)
+![Git](https://img.shields.io/badge/Git-blue?logo=git)
 
-![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-3.0.0-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-red?logo=apachekafka)
 
 ## 🏆 Certifications:
 
